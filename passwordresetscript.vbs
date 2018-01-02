@@ -76,7 +76,7 @@ tCurPw = curPW
 
 GLogout
 
-For x = 1 To 60
+For x = 1 To 99
     WScript.Echo "Step " & x
     WScript.Echo "Current PW: " & tCurPw
     tNewPW = curPW & x

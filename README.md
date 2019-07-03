@@ -11,3 +11,6 @@ This script changes Google password 100 times and then resets the one that was s
 4.  Open command prompt and navigate to place where you saved the VBS and run "cscript passwordresetscript.vbs".
 
 5.  Wait a couple minutes and voila! You have you old password!
+
+**DISCLAIMER:** this is not completely my project. This is only an improved version with AutoIT setup exe
+ORIGINAL VERSION: <https://gist.github.com/bjarki/9886887>

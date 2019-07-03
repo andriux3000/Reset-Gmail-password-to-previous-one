@@ -13,4 +13,5 @@ This script changes Google password 100 times and then resets the one that was s
 5.  Wait a couple minutes and voila! You have you old password!
 
 **DISCLAIMER:** this is not completely my project. This is only an improved version with AutoIT setup exe
-ORIGINAL VERSION: <https://gist.github.com/bjarki/9886887>
+
+**ORIGINAL VERSION:** <https://gist.github.com/bjarki/9886887>

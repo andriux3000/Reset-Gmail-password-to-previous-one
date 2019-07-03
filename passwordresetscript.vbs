@@ -1,24 +1,10 @@
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-' Declare Variables & Objects
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
 Dim oShell
 Dim oAutoIt
-
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-' Initialise Variables & Objects
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Set oShell = WScript.CreateObject("WScript.Shell")
 Set oAutoIt = WScript.CreateObject("AutoItX3.Control")
 
 WScript.Echo "This script will reset your google password 100 times so you can use an old password."
-
-
-
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-' You should only edit value after this
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 ' Your Google username (email address)
 'sUN = "email@gmail.com" 
